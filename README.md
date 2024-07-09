@@ -26,6 +26,7 @@ O script irá iniciar e exibir no terminal as ações que estão sendo realizada
 
 #### Funcionamento
 O script cria automaticamente o diretório de destino se ele não existir juntamente com todas as subpastas necessárias. Ao final da execução, a o diretório de origem estará vazio, e o de destino estará parecido com o exemplo abaixo:
+
 ![Exemplo de funcionamento do script](https://github.com/ViniBolo/Archives_IC/assets/50275359/d2870c48-64a4-43d8-8867-744b4cdb8432)
 
 
