@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#script by chatgpt
+
 # Registrar o tempo de início em milissegundos
 inicio=$(date +%s%3N)
 
