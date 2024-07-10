@@ -13,6 +13,8 @@ Este script em Bash permite separar arquivos automaticamente entre diretórios d
 #### Pré-requisitos
 Antes de executar o script, é necessário modificar no código as variáveis que definem os caminhos dos diretórios de origem e destino dos arquivos.
 
+! Atenção, esse script irá mover os seus arquivos, removendo-os da pasta raiz, certifique-se de fazer uma cópia ou alterar o script caso queira copiar !
+
 #### Como Usar
 1. Abra o terminal na pasta onde o script está localizado.
 2. Acesse o modo super usuário com o comando:
